@@ -8,3 +8,5 @@ in other cases the duration will keep on decreasing.
 I have also included genres in English as some people might listen to a particular genre more and hence be good at guessing it.
 
 You'll have to make changes in the path of the files in function files (musicFiles.m and songsLanguage.m) to get the code working
+
+The final code is in the file called finalProjectASCII.m
